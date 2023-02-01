@@ -1,0 +1,13 @@
+{
+  "name": "klak_shop",
+  "version" : "0.1.0",
+  "main": "app.js",
+  "scripts" : {
+    "start" : "cd back-end; npm install; node server.js"
+  },
+
+  "engines": {
+    "node": "^15"
+  }
+
+}
